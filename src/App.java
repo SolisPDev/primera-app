@@ -69,7 +69,7 @@ public class App {
                     System.out.println("\n");
             }
         }
-
+        teclado.close();
     }
 }
 
